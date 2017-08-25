@@ -7443,6 +7443,6 @@
     return BugTrack;
 });
 
-window.BugTrack = new BugTrack();
+window.BugTrack = BugTrack;
 
 
